@@ -1,7 +1,7 @@
 html,
 body {
   height: 100%;
-  width: 1100%;
+  width: 100%;
   overflow: hidden;
   margin: 0;
 }
@@ -18,12 +18,12 @@ body {
 }
 
 .grass {
-  height: 20%;
+  height: 10%;
   background: seagreen;
 }
 
 .road {
-  height: 40%;
+  height: 50%;
   background: dimgray;
   box-sizing: border-box;
   border-top: 10px solid grey;
