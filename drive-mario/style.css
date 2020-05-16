@@ -95,7 +95,7 @@ body {
     /* left: -200px; */
   }
   to {
-    transform: translateX(500px);
+    transform: translateX(800px);
     /* left: 100vh; */
   }
 }
