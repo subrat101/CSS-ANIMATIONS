@@ -91,12 +91,12 @@ body {
 
 @keyframes drive {
   from {
-    /* transform: translateX(-200px); */
-    left: -200px;
+    transform: translateX(-200px);
+    /* left: -200px; */
   }
   to {
-    /* transform: translateX(1950px); */
-    left: 100vh;
+    transform: translateX(1950px);
+    /* left: 100vh; */
   }
 }
 
